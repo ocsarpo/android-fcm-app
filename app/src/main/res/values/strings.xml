@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMTestApp</string>
+    <string name="default_notification_channel_id">FCMTEST</string>
+    <string name="default_notification_channel_name">FCMTEST</string>
+    <string name="send_btn">보내기</string>
+    <string name="to">보낼곳</string>
+    <string name="from">내id</string>
+    <string name="msg">메시지</string>
+</resources>
